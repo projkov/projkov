@@ -9,4 +9,4 @@ My areas of interest are:
 - 🔥 FHIR
 - 💊 IT in healthcare
 
-- 🌱 I’m currently learning: Math for data science
+- 🌱 I’m currently learning: Clojure
