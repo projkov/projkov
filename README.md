@@ -8,5 +8,3 @@ My areas of interest are:
 - 📱 React/ReactNative
 - 🔥 FHIR
 - 💊 IT in healthcare
-
-- 🌱 I’m currently learning: Clojure
